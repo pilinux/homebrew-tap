@@ -1,6 +1,6 @@
 cask "sieve" do
-  version "1.0.5"
-  sha256 "9510568e8ab41ccdeca3fe2ff05d9bb82cd307445c9d2dd745dc2a5c7ca52b18"
+  version "1.0.6"
+  sha256 "dbcb5d1daff2e0adaf422f17662131937676ef2e037ecd75e35eeec072519e86"
 
   url "https://github.com/pilinux/sieve/releases/download/v#{version}/Sieve.zip"
   name "Sieve"
